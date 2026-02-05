@@ -1,6 +1,6 @@
 <?php
 
-namespace WordpressTest;
+namespace WordpressTest\Content;
 
 use Base3\Api\IOutput;
 use Base3\Api\ISystemService;
